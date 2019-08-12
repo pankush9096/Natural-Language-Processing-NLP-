@@ -1,5 +1,5 @@
 # Natural-Language-Processing-NLP-
-In this you can see the implementation of basics techniques and text preprocessing under NLP
+In this you can see the implementation of regex functions and basics techniques for text preprocessing under NLP
 It includes:
 1. Tokenization
 2. Stemming
